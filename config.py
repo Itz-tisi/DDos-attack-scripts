@@ -3,10 +3,10 @@
 #SCRIPT BY SASUKE
 
 #Enter Your Bot Token here get it from @botfarher
-BOT_TOKEN=("7683592167:AAHvt7WM91_xpKiGKifYk3dIuNa7jUEMvdI")
+BOT_TOKEN=(""l7461925686:AAHiQp1RS7YAVFVVHoWEyKgaE5wGYgO0QJo")
 
   #Enter Your telegram username here without @
-OWNER_USERNAME=("INFLICT_BGMI")
+OWNER_USERNAME=("r2kgaming3")
 
   #Enter your admin id here Get it from @missRose_bot by typing /info
-ADMIN_IDS=("7263607387")
+ADMIN_IDS=("1525613151")
